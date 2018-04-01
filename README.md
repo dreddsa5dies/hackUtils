@@ -1,4 +1,5 @@
-Описание компакт-диска к книге И. С. Склярова "Программирование боевого софта под Linux"
+## Описание компакт-диска к книге И. С. Склярова "Программирование боевого софта под Linux"  
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/black_img.png)](https://www.buymeacoffee.com/GDNsM0F)
 
 \part2
 Исходные коды к части "Сетевой боевой софт"
